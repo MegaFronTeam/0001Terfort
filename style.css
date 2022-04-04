@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Montserrat';
-  src: url('/fonts/MontserratRegular.woff2') format('woff2');
+  src: url('../fonts/MontserratRegular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
@@ -11,7 +11,7 @@
 
 body {
   height: 100vh;
-  background-image: url('/img/cover.png');
+  background-image: url('../img/cover.png');
   background-repeat: no-repeat;
   background-position: right top;
   background-size: 70% 100%;
